@@ -1,0 +1,5 @@
+A 9 B 2 D 5 C
+B 6 D 5 E
+C 5 E
+D 4 C 4 E
+E
